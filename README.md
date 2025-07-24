@@ -22,18 +22,6 @@ Exemplo: abrir na página 15 →
 
 ---
 
-## 📌 Índice Rápido (exemplo de navegação)
-
-| Página | Seção                                      |
-|--------|---------------------------------------------|
-| 2      | Visão geral e especificações técnicas       |
-| 8      | Diagrama de blocos                          |
-| 14     | Esquema elétrico                            |
-| 20     | Procedimentos de teste e calibração         |
-| 25     | Troubleshooting (diagnóstico de falhas)     |
-
----
-
 ## 📥 Sobre este repositório
 
 Este projeto tem como objetivo **facilitar o acesso a informações técnicas de difícil obtenção**, especialmente para profissionais da área de radiocomunicação.
